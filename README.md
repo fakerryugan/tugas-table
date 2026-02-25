@@ -21,9 +21,4 @@ Berikut adalah hasil tampilan tabel yang telah dikerjakan:
 
 ---
 
-## 🛠️ Penjelasan Singkat
-Dalam pengerjaan tabel ini, saya menerapkan beberapa elemen kunci:
-* **Struktur Tabel**: Menggunakan tag `<table>`, `<tr>`, dan `<td>`.
-* **Styling Header**: Memberikan warna latar belakang `#7A7777` pada baris header.
-* **Perataan Tengah**: Mengatur teks agar berada di posisi tengah (`center`) menggunakan atribut `align` atau CSS `text-align`.
-* **Responsivitas**: Mengatur lebar kolom agar proporsional dan mudah dibaca.
+
