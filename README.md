@@ -1,6 +1,6 @@
 # 📊 Tugas Pemrograman Web: Implementasi Tabel HTML
 
-Tugas ini merupakan praktik pembuatan tabel terstruktur menggunakan HTML dan CSS untuk menyusun jadwal perkuliahan.
+Tugas ini merupakan praktik pembuatan tabel terstruktur menggunakan HTML.
 
 ## 👤 Profil Mahasiswa
 | Identitas | Detail |
